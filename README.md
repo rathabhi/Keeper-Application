@@ -15,11 +15,11 @@ It is a note making web application where an user can create their personal note
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1JDq4mRDluLrR8dlJl5gBkO9DlTh5AIAs)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1WTuDVrGAO4Q31jnKMroBdCRfZWmcqt-T)
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1QNfpibgU5_ho3RxxeZ6YhJCLkzDuBEmi)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1vUYdTS748PIwF19eAhMwjhTgPTGcKy1k)
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1xemjHKq_dFSIbbaL5TouItqKXn89vdNp)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1gmgDHcXcWxGoO4FEIW-Vi1MO_Q0qOyYn)
 
 
 ## Contributing
